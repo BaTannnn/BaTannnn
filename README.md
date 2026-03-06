@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 :man_technologist:**NGUYỄN BÁ TÂN**
 --
->- :telephone_receiver: 03xxxxxxxxx
->- :email: heheboiz@gmail.com
+>- :email: nguyenbatan.2908@gmail.com
 >- :globe_with_meridians: github.com/BaTannnn
 >- :round_pushpin: Quận Gò Vấp, TPHCM
